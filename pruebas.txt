@@ -1,0 +1,8 @@
+🔹 http://localhost:3000
+Al ingresar, se muestra el mensaje: "Servidor funcionando correctamente". Confirma que el servidor está activo y responde bien en la ruta principal.
+
+🔹 http://localhost:3000/saludo
+Se visualiza: "¡Hola, bienvenido a la ruta de saludo!". Es una ruta fija diseñada solo para dar un saludo.
+
+🔹 http://localhost:3000/mensaje/juan
+Aparece el texto: "Hola juan". Aquí la ruta es dinámica: lo que escribas después de /mensaje/ (en este caso "juan") se toma como valor y se muestra en la respuesta.

@@ -1,0 +1,4 @@
+Esta es una ruta de tipo POST llamada `/reporte`. Su función es recibir información que se le envía desde fuera (por ejemplo, desde un formulario o una aplicación). Lee el valor que viene bajo el nombre "mensaje" dentro del cuerpo de la petición, y responde devolviendo un mensaje de confirmación junto con el texto que se envió, todo en formato JSON.En una aplicación de barrio, vecindario o comunidad, esta ruta sería muy útil para:
+ - Recibir reportes de problemas: ej. "Hay una luz fundida en la calle 5", "Hay basura acumulada".
+  - Recibir sugerencias o solicitudes de ayuda.
+   - Enviar comentarios o avisos de seguridad.
